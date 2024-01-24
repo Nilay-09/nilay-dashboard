@@ -1,8 +1,19 @@
-# React + Vite
+# Project Name - React Admin Dashboard By NILAY BHOTMANGE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React admin dashboard project designed to provide a user-friendly interface for managing and visualizing data.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow the steps below to set up and run the project on your local machine.
+
+### Prerequisites
+
+none
+
+### Installation
+
+1. Run Command:
+
+   ```bash
+        npm install
+   
